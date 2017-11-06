@@ -2,7 +2,7 @@
 <addon id="repository.SPM" name="SPM's Repo" version="1" provider-name="SPM">
 	<extension point="xbmc.addon.repository" name="SPM's Repo">
 		<info compressed="false">https://raw.githubusercontent.com/spmjc/repository.SPM/master/addon.xml</info>
-		<datadir zip="true">https://raw.githubusercontent.com/spmjc/repository.SPM/master/</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/spmjc/repo/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install SPM's Repo</summary>
